@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/sg-vilab/sg-vilab.github.io.git
+	branch = master
