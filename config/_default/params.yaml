@@ -6,7 +6,7 @@
 # Appearance
 
 theme: custom
-day_night: true
+day_night: false
 font: ''
 font_size: s
 
@@ -117,7 +117,7 @@ map:
 marketing:
   google_analytics: ''
   google_tag_manager: ''
-  google_site_verification: ''
+  google_site_verification: 'google8716a40eeb985547.html'
   baidu_site_verification: ''
   baidu_tongji: ''
 cms:
